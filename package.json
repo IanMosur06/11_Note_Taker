@@ -1,0 +1,27 @@
+{
+  "name": "challenge_11_note_taker",
+  "version": "1.0.0",
+  "description": "This is challenge 11 Note Taker, this can be used to write and save notes using express.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanMosur06/challenge_11_Note_Taker.git"
+  },
+  "keywords": [
+    "Note",
+    "Taker"
+  ],
+  "author": "Ian M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IanMosur06/challenge_11_Note_Taker/issues"
+  },
+  "homepage": "https://github.com/IanMosur06/challenge_11_Note_Taker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
